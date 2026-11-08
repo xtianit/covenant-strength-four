@@ -1,7 +1,7 @@
 import type { LessonContent, QuizQuestion } from "../appTypes";
 
 export const lesson: LessonContent = {
-    lessonDate: "January 4, 2026",
+    lessonDate: "November 8, 2026",
     lessonTitle: "The Strength of Covenant – Part 4",
 
     memoryVerse:
